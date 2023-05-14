@@ -1,0 +1,14 @@
+.card{
+    width: 400px;
+    height: auto;
+    padding: 10px;
+}
+.card img{
+    width: 380px;
+}
+.mebel-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+}
